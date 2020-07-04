@@ -1,0 +1,13 @@
+#box{
+    padding: 0;
+    border: 1px solid red;
+    min-height: 700px;
+}
+#header{
+    height: 100px;
+    background-color: springgreen;
+
+}
+#navi{
+    margin-top: 10px;
+}
